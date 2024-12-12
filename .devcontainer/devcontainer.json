@@ -25,7 +25,9 @@
 		],
 		"settings": {
 			"editor.wordWrap": "on",
-			"editor.mouseWheelZoom": true
+			"editor.mouseWheelZoom": true,
+			"code-runner.runInTerminal": true, // Runs code in the terminal
+			"code-runner.clearPreviousOutput": true // Clears previous output every time
 		}
 	}
 }
